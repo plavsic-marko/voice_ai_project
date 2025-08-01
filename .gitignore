@@ -1,0 +1,8 @@
+# Ignoriši cache i virtualno okruženje
+cache/
+__pycache__/
+venv/
+
+# Ignoriši konfiguraciju
+.env
+*.pyc
